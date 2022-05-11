@@ -1,2 +1,0 @@
-hola mundo2 como estas
-esta es la prueba para git 
